@@ -1,0 +1,34 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/kosmo/Documents/Unreal Projects/MyProject/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset",
+				"C:/Users/kosmo/Documents/Unreal Projects/MyProject/Content/NewFolder/bp_item.uasset",
+				"C:/Users/kosmo/Documents/Unreal Projects/MyProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/kosmo/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/AU/BBK53LC71KYO2GBHJKO1XQ.uasset",
+				"C:/Users/kosmo/Documents/Unreal Projects/MyProject/Content/NIcos_shit/bp_item.uasset",
+				"C:/Users/kosmo/Documents/Unreal Projects/MyProject/Content/NIcos_shit/bp_healthwidget.uasset",
+				"C:/Users/kosmo/Documents/Unreal Projects/MyProject/Content/ThirdPerson/Blueprints/bp_enemy.uasset",
+				"C:/Users/kosmo/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/V1/TN4MVD67DZU6HO5JIZF07J.uasset",
+				"C:/Users/kosmo/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/6A/UAILXPQI9B0JDUMJPTB3TR.uasset",
+				"C:/Users/kosmo/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/1L/0XTQ7AWDGUVIED1MKXKDOT.uasset",
+				"C:/Users/kosmo/Documents/Unreal Projects/MyProject/Content/NIcos_shit/ai/enemy_aicontroller.uasset",
+				"C:/Users/kosmo/Documents/Unreal Projects/MyProject/Content/NIcos_shit/ai/BTTask_findpatrolposition.uasset",
+				"C:/Users/kosmo/Documents/Unreal Projects/MyProject/Content/NIcos_shit/ai/bt_enemy.uasset",
+				"C:/Users/kosmo/Documents/Unreal Projects/MyProject/Content/NIcos_shit/ai/BTTask_getplayerpos.uasset",
+				"C:/Users/kosmo/Documents/Unreal Projects/MyProject/Content/NIcos_shit/ai/bb_enemy_new.uasset",
+				"C:/Users/kosmo/Documents/Unreal Projects/MyProject/Content/NIcos_shit/bp_obstacle.uasset",
+				"C:/Users/kosmo/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/K0/2ZMRGU4VJIK0QWBQY80UB0.uasset",
+				"C:/Users/kosmo/Documents/Unreal Projects/MyProject/Content/Characters/Mannequins/Animations/npc_enemy_abp.uasset",
+				"C:/Users/kosmo/Documents/Unreal Projects/MyProject/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"C:/Users/kosmo/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/TY/SQAPCONVAXD8V0G52BK9ZS.uasset",
+				"C:/Users/kosmo/Documents/Unreal Projects/MyProject/Content/NIcos_shit/ai/BTTask_BlueprintBase_debug.uasset",
+				"C:/Users/kosmo/Documents/Unreal Projects/MyProject/Content/NIcos_shit/ai/bb_enemy.uasset",
+				"C:/Users/kosmo/Documents/Unreal Projects/MyProject/Content/NIcos_shit/enemy_aicontroller.uasset"
+			]
+		}
+	]
+}
